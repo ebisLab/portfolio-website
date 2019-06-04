@@ -11,7 +11,7 @@ You have the ability to write HTML, CSS, and responsive media queries.  You also
 _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 - :white_check_mark: Create a forked copy of this project.
-- [ ] Add PM as collaborator on Github.
+- :white_check_mark: Add PM as collaborator on Github.
 - :white_check_mark: Clone your OWN version of the repository (Not Lambda's by mistake!).
 - :white_check_mark: Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
 - :white_check_mark: Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
@@ -32,21 +32,21 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- :white_check_mark: Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- :white_check_mark: Add your Project Manager as a Reviewer on the Pull-request
+- :white_check_mark: PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
 - [ ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
-- [ ] Customize the template to you 
+- :white_check_mark: Customize the template to you 
 	- :white_check_mark: Update the title tag match your name
 	- :white_check_mark: Update the place holder content throughout the template to your information
 		* Some templates are much larger than others, you don't need to fill in every little div with information, just try to get the site representing you and your work 
 		* You can use sites like [https://www.pexels.com/](https://www.pexels.com/) for free images to fill in place holders
 		* Showcase projects you have worked on by providing some information and links to your git hub projects
 - :white_check_mark: Implement proper attribution: Attribution is required under the [creative commons license](https://html5up.net/license) that came with the website files you downloaded.  Be sure to provide attribution somewhere in the site.  The templates should already come with attribution found in most footers but double check to be sure.
-- [ ] Host your website for the world to see. Follow the instructions found here [https://pages.github.com/](https://pages.github.com/).  Once you have hosted your web page, share it for your peers to see.  This is not a small feat!
+- :white_check_mark: Host your website for the world to see. Follow the instructions found here [https://pages.github.com/](https://pages.github.com/).  Once you have hosted your web page, share it for your peers to see.  This is not a small feat!
 
 ## Stretch
 
